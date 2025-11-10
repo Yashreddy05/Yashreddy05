@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Yashwanth Reddy!
 
-<!--
-**Yashreddy05/Yashreddy05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about **Python | Data Analysis | Machine Learning | OpenCV | SQL**
 
-Here are some ideas to get you started:
+💡 Currently working on:
+- Machine Learning
+- Deep Learning
+- Agentic AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Learning:
+- Advanced Python OOPs Concepts
+- Power BI and Data Visualization
+
+📫 How to reach me:
+- 📧 yashwanth.reddy@example.com
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 🐍 [LeetCode](https://leetcode.com/your-username)
+- 🌐 [Portfolio](https://your-portfolio-link.com)
+
+⚡ Fun fact: I’m a movie enthusiast and love discussing cinema tech!
+
+---
+⭐ **Check out my repositories below for projects and code!**
