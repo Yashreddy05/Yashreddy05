@@ -3,18 +3,16 @@
 🚀 Passionate about **Python | Data Analysis | Machine Learning | OpenCV | SQL**
 
 💡 Currently working on:
+
+
+🧠 Learning:
 - Machine Learning
 - Deep Learning
 - Agentic AI
 
-🧠 Learning:
-- Advanced Python OOPs Concepts
-- Power BI and Data Visualization
-
 📫 How to reach me:
-- 📧 yashwanth.reddy@example.com
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐍 [LeetCode](https://leetcode.com/your-username)
+- 📧 yashwanthreddyjakka05@gmail.com
+- 💼 [LinkedIn](www.linkedin.com/in/yashwanth-reddyy05)
 - 🌐 [Portfolio](https://your-portfolio-link.com)
 
 ⚡ Fun fact: I’m a movie enthusiast and love discussing cinema tech!
