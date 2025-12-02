@@ -13,7 +13,6 @@
 📫 How to reach me:
 - 📧 yashwanthreddyjakka05@gmail.com
 - 💼 [LinkedIn](www.linkedin.com/in/yashwanth-reddyy05)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
 
 
 
