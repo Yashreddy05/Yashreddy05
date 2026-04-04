@@ -154,8 +154,8 @@ Building AI-powered tools using LangChain, Gemini API, and Streamlit — includi
 >
 > I bring a unique combo of **classical ML** and **Generative AI** skills — if you're building with data or LLMs, let's talk!
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Send Email](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashwanthreddy@gmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yashwantreddyy05)
+[![Send Email](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashwanthreddyjakka05@gmail.com)
 
 </div>
 
