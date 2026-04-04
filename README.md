@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yashwanth%20Reddy&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20GenAI%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=17" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yeshwanth%20Reddy&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20GenAI%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=17" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI+apps+with+LLMs+%26+LangChain+%F0%9F%A4%96;Gemini+API+%7C+Streamlit+%7C+Python+%7C+SQL;Turning+data+into+decisions+with+ML+%F0%9F%93%8A;Open+to+Data+Science+%26+AI+roles+%F0%9F%9A%80" alt="Typing SVG" />
